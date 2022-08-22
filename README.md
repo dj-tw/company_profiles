@@ -1,7 +1,7 @@
 # company_profiles
 Company profiles
 
-Version = 2
+Version = 3
 
-(Removed HTML escapes and replaced unicode dash with ascii dash)
+
 
